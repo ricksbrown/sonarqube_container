@@ -2,7 +2,7 @@
 
 SonarQube on Azure
 
-On [DockerHub](https://hub.docker.com/repository/docker/beoski/sonarqube)
+On [DockerHub](https://hub.docker.com/r/beoski/sonarqube)
 
 
 ## Setup Postgres
